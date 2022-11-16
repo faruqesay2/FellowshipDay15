@@ -1,0 +1,5 @@
+C:\Users\naruto\Desktop\BridgeLabz\Day15\HashTable\HashTable\obj\Debug\netcoreapp3.1\HashTable.csproj.AssemblyReference.cache
+C:\Users\naruto\Desktop\BridgeLabz\Day15\HashTable\HashTable\obj\Debug\netcoreapp3.1\HashTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naruto\Desktop\BridgeLabz\Day15\HashTable\HashTable\obj\Debug\netcoreapp3.1\HashTable.AssemblyInfoInputs.cache
+C:\Users\naruto\Desktop\BridgeLabz\Day15\HashTable\HashTable\obj\Debug\netcoreapp3.1\HashTable.AssemblyInfo.cs
+C:\Users\naruto\Desktop\BridgeLabz\Day15\HashTable\HashTable\obj\Debug\netcoreapp3.1\HashTable.csproj.CoreCompileInputs.cache
